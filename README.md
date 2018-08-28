@@ -5,4 +5,4 @@
 提交到后台时是提交一个base64字符，在后台再将base64字符转换为图片保存。
 
 效果图：
-![Image text](https://github.com/yguo18/CircleFollowButton/raw/master/1.png)
+![Image text](https://github.com/HL-Guitar/photograph//raw/master/1.png)
